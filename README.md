@@ -1,18 +1,14 @@
-# my-first-repository
+My First Repository
 
 
 
-\# My First Repository
+About Me
 
 
 
-\## About Me
+Name: Faith Mariane Quevedo
 
-
-
-\*\*Name:\*\* Faith Mariane Quevedo  
-
-\*\*Course \& Section:\*\* BSIT 2A
+Course \& Section: BSIT 1A
 
 
 
@@ -20,7 +16,7 @@ I am a first-year Bachelor of Science in Information Technology student. I am in
 
 
 
-\## My Learning Goal
+My Learning Goal
 
 
 
